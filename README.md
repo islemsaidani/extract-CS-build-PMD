@@ -4,7 +4,7 @@ To use this code:
 2. Git must be installed (https://git-scm.com/downloads)
 
 # Build Data
-the CSV file "data_top10.csv" contains information about the build history of top-10 Java CI projects on TravisTorrent.
+the CSV file "data_top10.csv" contains information about the build history of top-10 Java CI projects extracted from TravisTorrent database.
 
 # Run
 All you have to do is to run "MainProgram.java"
