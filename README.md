@@ -7,7 +7,7 @@ To use this code:
 the CSV file "data_top10.csv" contains information about the build history of top-10 Java CI projects extracted from TravisTorrent database.
 
 # Run
-All you have to do is to run "MainProgram.java"
-At each run, you have to delete "C:/gitProj" directory.
+- All you have to do is to run "MainProgram.java".
+- At each run, you have to delete "C:/gitProj" directory.
 
 
