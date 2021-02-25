@@ -8,5 +8,6 @@ the CSV file "data_top10.csv" contains information about the build history of to
 
 # Run
 All you have to do is to run "MainProgram.java"
+At each run, you have to delete "C:/gitProj" directory.
 
 
